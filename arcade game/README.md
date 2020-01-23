@@ -22,10 +22,10 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 - How to play: Use your arrow keyboards to move the player, when the bug hit you, the game will restart, if you reach the sea you win.
 - you will find in the top of the page the time you win and lose.
 
-###installation
+### installation
 - simply open the index.html file on browser.
 
-###Dependencies
+### Dependencies
 - collision  : https://www.youtube.com/watch?v=XYzA_kPWyJ8
 
 # javaScript
